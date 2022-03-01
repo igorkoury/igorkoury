@@ -1,10 +1,9 @@
-## Hello, world! I'm Igor.
+### Hello, world! I'm Igor.
 
 - 🌱 I’m currently learning in <Academia de Código_> Porto-PT
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/igorkoury">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=igorkoury&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkoury&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
