@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, world! I'm Igor.
 
 
 - 🔭 I’m currently working on ...
@@ -13,5 +13,5 @@
 <div align="center">
   <a href="https://github.com/igorkoury">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=igorkoury&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img  height="180em" src="https://github-readme.stats.app/api/top-langs/?username=igorkoury&layout=compact&langs_count=16&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkoury&layout=compact&langs_count=7&theme=dracula"/>
 </div>
