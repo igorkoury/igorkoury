@@ -1,6 +1,3 @@
-### Hello, world! I'm Igor.
-
-- 🌱 I currently study at <Academia de Código_> Porto-PT
 
 <div align="left">
   <a href="https://github.com/igorkoury">
