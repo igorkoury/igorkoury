@@ -12,5 +12,5 @@
 
 <div align="center">
   <a href="https://github.com/igorkoury">
-  <img  height="180rem" src="https://github-readme-stats.vercel.app/api?username=igorkoury1&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img  height="180rem" src="https://github-readme-stats.vercel.app/api?username=igorkoury&show_icons=true&theme=tokyonight&count_private=true"/>
 </div>
