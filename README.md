@@ -5,7 +5,7 @@
   <img align="right"  alt="pic" height="150"  src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
 </div>
   
-<div align="right>
+<div align="right">
   <a href = "mailto:igorkoury@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-koury-049a1939/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
